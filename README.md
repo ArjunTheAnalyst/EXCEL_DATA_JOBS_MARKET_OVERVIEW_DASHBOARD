@@ -6,7 +6,7 @@ An interactive Microsoft Excel dashboard that analyzes the global data jobs mark
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.gif)
+![Dashboard](dashboard.png)
 
 ---
 
