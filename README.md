@@ -8,7 +8,7 @@ An interactive Microsoft Excel dashboard that analyzes the global data jobs mark
 
 > Add a screenshot of your dashboard here.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.gif)
 
 ---
 
