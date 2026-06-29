@@ -191,6 +191,6 @@ The dashboard helps answer questions such as:
 
 ## 📌 Conclusion
 
-This project demonstrates how Microsoft Excel can be used to build a powerful and interactive business intelligence dashboard without relying on VBA or external tools. By combining dynamic array formulas, Pivot Tables, charts, and data validation, the dashboard transforms raw job posting data into meaningful insights that support data-driven decision-making.
+This project demonstrates how Microsoft Excel can be used to build a powerful and interactive business intelligence dashboard without relying on VBA or external tools. By combining dynamic array formulas, Pivot Tables and charts, the dashboard transforms raw job posting data into meaningful insights that support data-driven decision-making.
 
 Through interactive filtering, users can explore salary trends, job demand, geographic distribution, and hiring platforms across different roles and employment types. The project showcases practical Excel skills commonly used in data analytics, including data analysis, dashboard design, statistical calculations, and dynamic reporting.
