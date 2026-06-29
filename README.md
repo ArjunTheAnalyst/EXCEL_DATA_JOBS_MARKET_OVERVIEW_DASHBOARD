@@ -1,6 +1,6 @@
 # 📊 Data Jobs Market Overview Dashboard
 
-An interactive Microsoft Excel dashboard that analyzes the global data jobs market using dynamic formulas, Pivot Tables, Pivot Charts, and Data Validation. The dashboard allows users to explore salary trends and job demand by filtering **Job Title**, **Country**, and **Job Schedule Type**.
+An interactive Microsoft Excel dashboard that analyzes the global data jobs market using dynamic formulas, Pivot Tables and Pivot Charts. The dashboard allows users to explore salary trends and job demand by filtering **Job Title**, **Country**, and **Job Schedule Type**.
 
 ---
 
